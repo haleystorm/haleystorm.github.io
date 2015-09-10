@@ -1,0 +1,43 @@
+/*!
+ * arctic-reveal.js
+ */
+
+.menu-simple ul {
+  margin: 0; 
+  padding: 0;
+  width:185px;
+  list-style-type: none !important;
+}
+
+.menu-simple ul li a {
+  text-decoration: none;
+  color: white; 
+  padding: 10.5px 11px;
+  background-color: #005555;
+  display:block;
+}
+ 
+.menu-simple ul li a:visited {
+  color: white;
+}
+ 
+.menu-simple ul li a:hover, .menu-simple ul li .current {
+  color: white;
+  background-color: #5FD367;
+}
+
+.column-left{ 
+  float: left; 
+  width: 33%;
+}
+
+.column-right{ 
+  float: right; 
+  width: 33%; 
+}
+
+.column-center{ 
+  display: 
+  inline-block; 
+  width: 33%; 
+}
