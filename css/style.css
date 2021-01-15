@@ -47,7 +47,6 @@ a:hover {
 #home {
 	max-width: 480px;
 	margin: 10% auto 0;
-	-webkit-padding-start: 40px;
 }
 .fa-circle {
 	color: hsla(16, 62%, 63%, 0.5);
@@ -63,21 +62,6 @@ a:hover {
 }
 .fa-file {
 	color: hsla(26, 19%, 7%, 0.5);
-}
-ul li.twitter a {
-	width: 33px;
-	height: 33px;
-	display: block;
-}
-ul li.github a {
-	width: 33px;
-	height: 33px;
-	display: block;
-}
-ul li.linkedin a {
-	width: 33px;
-	height: 33px;
-	display: block;
 }
 .logo {
 	width: 60px;
